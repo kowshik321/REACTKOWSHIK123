@@ -56,12 +56,7 @@ const Body =()=>{
             </div>
             <div className="res-container">
                 <RestuarantCard/>
-                <RestuarantCard/>
-                <RestuarantCard/>
-                <RestuarantCard/>
-                <RestuarantCard/>
-                <RestuarantCard/>
-                <RestuarantCard/>
+                
                 
 
 
